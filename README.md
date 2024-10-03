@@ -1,2 +1,2 @@
 # facetools
-🤫 Collection of tools dedicated to face analysis
+🤫 Collection of tools dedicated to facial analysis
